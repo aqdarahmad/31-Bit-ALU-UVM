@@ -1,4 +1,4 @@
-<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/3e2e6e12-3c5c-418b-8b3f-6f6edce3e438" />⚙️ ALU Verification Project using UVM
+⚙️ ALU Verification Project using UVM
 🧩 Overview
 
 This project implements a Universal Verification Methodology (UVM) testbench to verify an Arithmetic Logic Unit (ALU) design.
