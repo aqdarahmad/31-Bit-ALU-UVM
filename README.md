@@ -146,4 +146,3 @@ Randomization: Achieved through UVM sequences for stress testing.
 Aqdar Ahmed
 🎓 Computer Engineering Student — AAUP
 📧 [AAbusufyan@orionvtech.com]
-📧 [a.abusufyan@student.aaup.edu]
